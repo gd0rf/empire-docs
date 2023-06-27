@@ -1,6 +1,6 @@
 # Dropbox
 
-We can leverage the Dropbox API as a C2 channel, which can utilize existing architecture inside a network and obfuscate web traffic. The documentation for this comes from [BC Security Dropbox Blog Post](https://www.bc-security.org/post/empire-dropbox-c2-listener/).
+We can leverage the Dropbox API as a C2 channel, which can utilize existing architecture inside a network and obfuscate web traffic. The documentation for this comes from [BC Security Dropbox Blog Post](https://www.bc-security.org/empire-dropbox-c2-listener/).
 
 ## Empire Setup
 
